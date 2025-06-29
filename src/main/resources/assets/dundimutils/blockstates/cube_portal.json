@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dundimutils:block/cube_portal"
+    }
+  }
+}

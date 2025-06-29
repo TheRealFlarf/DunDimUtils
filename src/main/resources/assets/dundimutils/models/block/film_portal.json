@@ -1,0 +1,9 @@
+{
+  "parent": "dundimutils:custom/film_portal",
+  "textures": {
+    "all": "dundimutils:block/portal_default",
+    "particle": "dundimutils:block/portal_default",
+    "0": "dundimutils:block/portal_default"
+  },
+  "render_type": "translucent"
+}

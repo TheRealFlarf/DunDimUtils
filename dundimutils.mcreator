@@ -1,0 +1,68 @@
+{
+  "mod_elements": [
+    {
+      "name": "FilmPortal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "film_portal",
+      "metadata": {
+        "files": [
+          "src/main/java/gay/freshbakedsoup/dundimutils/block/entity/FilmPortalBlockEntity.java",
+          "src/main/resources/assets/dundimutils/models/block/film_portal.json",
+          "src/main/resources/data/dundimutils/loot_tables/blocks/film_portal.json",
+          "src/main/java/gay/freshbakedsoup/dundimutils/block/FilmPortalBlock.java",
+          "src/main/resources/assets/dundimutils/models/item/film_portal.json",
+          "src/main/resources/assets/dundimutils/blockstates/film_portal.json"
+        ]
+      }
+    },
+    {
+      "name": "CubePortal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cube_portal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/dundimutils/models/block/cube_portal.json",
+          "src/main/java/gay/freshbakedsoup/dundimutils/block/entity/CubePortalBlockEntity.java",
+          "src/main/resources/data/dundimutils/loot_tables/blocks/cube_portal.json",
+          "src/main/resources/assets/dundimutils/blockstates/cube_portal.json",
+          "src/main/resources/assets/dundimutils/models/item/cube_portal.json",
+          "src/main/java/gay/freshbakedsoup/dundimutils/block/CubePortalBlock.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.dundimutils.film_portal": "Film Portal",
+      "block.dundimutils.cube_portal": "Cube Portal"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "dundimutils",
+    "modName": "Dungeon Dimension Utilities",
+    "version": "1.0.0",
+    "author": "flarf, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "gay.freshbakedsoup.dundimutils"
+  },
+  "mcreatorVersion": 202400452410
+}

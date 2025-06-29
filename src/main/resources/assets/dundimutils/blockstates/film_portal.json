@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dundimutils:block/film_portal"
+    },
+    "facing=east": {
+      "model": "dundimutils:block/film_portal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dundimutils:block/film_portal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dundimutils:block/film_portal",
+      "y": 270
+    }
+  }
+}
